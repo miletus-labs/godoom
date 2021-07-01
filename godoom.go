@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/urfave/cli"
 	"github.com/go-gl/gl/v3.3-core/gl"
-	"github.com/go-gl/glfw/v3.1/glfw"
+	"github.com/go-gl/glfw/v3.3/glfw"
 	"github.com/go-gl/mathgl/mgl32"
 	"image"
 	"image/color"
